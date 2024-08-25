@@ -5,6 +5,10 @@
 <link>https://uwillno.com</link>
 <description>UWillno's blog</description>
 <item>
+<title>Vlog</title>
+<link>https://uwillno.com?vlog</link>
+</item>
+<item>
 <title>rss</title>
 <link>https://uwillno.com?rss</link>
 </item>
