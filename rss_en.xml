@@ -29,57 +29,57 @@
 <link>https://uwillno.com?links</link>
 </item>
 <item>
-<title>Problem records of using MediaPlayer in Qt for WebAssembly</title>
+<title>Uwzz principle completion</title>
 <link>https://uwillno.com?blog=1</link>
-<pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
+<pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
 <category>Technology</category>
 </item>
 <item>
-<title>Dali Travel Notes</title>
+<title>Arch Linux system migration</title>
 <link>https://uwillno.com?blog=2</link>
-<pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
-<category>Travel notes</category>
+<pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
+<category>Technology</category>
 </item>
 <item>
-<title>Vlog function description</title>
+<title>Qt creator Chinese input problem on Linux</title>
 <link>https://uwillno.com?blog=3</link>
-<pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
-<category>Function Description</category>
+<pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
+<category>Technology</category>
 </item>
 <item>
-<title>Instructions on deprecated functions</title>
+<title>ReferenceError: SharedArrayBuffer is not defined</title>
 <link>https://uwillno.com?blog=4</link>
-<pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
-<category>Function Description</category>
+<pubDate>Tue, 23 May 2023 00:00:00 GMT</pubDate>
+<category>Technology</category>
 </item>
 <item>
-<title>CMake/QMake shader files are automatically generated</title>
+<title>Complaining about education experience</title>
 <link>https://uwillno.com?blog=5</link>
-<pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
-<category>Technology</category>
+<pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
+<category>Complaints</category>
 </item>
 <item>
-<title>Qt compresses resource files, remotely loads resource files and translates</title>
+<title>Complaints about software exam experience</title>
 <link>https://uwillno.com?blog=6</link>
-<pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate>
-<category>Technology</category>
+<pubDate>Wed, 21 Jun 2023 00:00:00 GMT</pubDate>
+<category>Complaints</category>
 </item>
 <item>
-<title>Fiddle with QSettings::WebIndexedDBFormat/JSPI records</title>
+<title>Six Yao function description</title>
 <link>https://uwillno.com?blog=7</link>
-<pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
-<category>Technology</category>
-</item>
-<item>
-<title>Function description of Huangji Jingshi</title>
-<link>https://uwillno.com?blog=8</link>
-<pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+<pubDate>Sat, 12 Aug 2023 00:00:00 GMT</pubDate>
 <category>Function Description</category>
 </item>
 <item>
-<title>Qt for Webassembly QML text selection and copy</title>
+<title>About some rubbish course/graduation plans written</title>
+<link>https://uwillno.com?blog=8</link>
+<pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
+<category>Miscellaneous talk</category>
+</item>
+<item>
+<title>QHttpServer settings allow cross-domain requests</title>
 <link>https://uwillno.com?blog=9</link>
-<pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
+<pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
 <category>Technology</category>
 </item>
 <item>
@@ -89,46 +89,64 @@
 <category>Technology</category>
 </item>
 <item>
-<title>QHttpServer settings allow cross-domain requests</title>
+<title>Qt for Webassembly QML text selection and copy</title>
 <link>https://uwillno.com?blog=11</link>
-<pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
+<pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
 <category>Technology</category>
 </item>
 <item>
-<title>About some rubbish course/graduation plans written</title>
+<title>Function description of Huangji Jingshi</title>
 <link>https://uwillno.com?blog=12</link>
-<pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
-<category>Miscellaneous talk</category>
-</item>
-<item>
-<title>Six Yao function description</title>
-<link>https://uwillno.com?blog=13</link>
-<pubDate>Sat, 12 Aug 2023 00:00:00 GMT</pubDate>
+<pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
 <category>Function Description</category>
 </item>
 <item>
-<title>ReferenceError: SharedArrayBuffer is not defined</title>
+<title>Fiddle with QSettings::WebIndexedDBFormat/JSPI records</title>
+<link>https://uwillno.com?blog=13</link>
+<pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
+<category>Technology</category>
+</item>
+<item>
+<title>Qt compresses resource files, remotely loads resource files and translates</title>
 <link>https://uwillno.com?blog=14</link>
-<pubDate>Tue, 23 May 2023 00:00:00 GMT</pubDate>
+<pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate>
 <category>Technology</category>
 </item>
 <item>
-<title>Qt creator Chinese input problem on Linux</title>
+<title>CMake/QMake shader files are automatically generated</title>
 <link>https://uwillno.com?blog=15</link>
-<pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
+<pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
 <category>Technology</category>
 </item>
 <item>
-<title>Uwzz principle completion</title>
+<title>Instructions on deprecated functions</title>
 <link>https://uwillno.com?blog=16</link>
-<pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
+<pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
+<category>Function Description</category>
+</item>
+<item>
+<title>Vlog function description</title>
+<link>https://uwillno.com?blog=17</link>
+<pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+<category>Function Description</category>
+</item>
+<item>
+<title>Dali Travel Notes</title>
+<link>https://uwillno.com?blog=18</link>
+<pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
+<category>Travel notes</category>
+</item>
+<item>
+<title>Problem records of using MediaPlayer in Qt for WebAssembly</title>
+<link>https://uwillno.com?blog=19</link>
+<pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
 <category>Technology</category>
 </item>
 <item>
-<title>Arch Linux system migration</title>
-<link>https://uwillno.com?blog=17</link>
-<pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
-<category>Technology</category>
+<title>Holiday complaints</title>
+<link>https://uwillno.com?blog=20</link>
+<pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
+<category>Complaints</category>
 </item>
 </channel>
 </rss>
