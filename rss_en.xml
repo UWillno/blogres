@@ -5,6 +5,12 @@
 <link>https://uwillno.com</link>
 <description>UWillno's blog</description>
 <item>
+<title>Blog issue record (WASM platform)</title>
+<link>https://uwillno.com?blog=logs</link>
+<pubDate>Sun, 20 Oct 2024 00:00:00 GMT</pubDate>
+<category>Technology</category>
+</item>
+<item>
 <title>Use Qt/C++ to call JavaScript to implement routing in Qt for WebAssembly</title>
 <link>https://uwillno.com?blog=26</link>
 <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
