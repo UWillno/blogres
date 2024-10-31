@@ -5,6 +5,12 @@
 <link>https://uwillno.com</link>
 <description>UWillno's blog</description>
 <item>
+<title>Changelog</title>
+<link>https://uwillno.com?blog=changelog</link>
+<pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
+<category>Log</category>
+</item>
+<item>
 <title>Qt/C++ interacts with Java and uses JNI</title>
 <link>https://uwillno.com?blog=28</link>
 <pubDate>Sat, 26 Oct 2024 00:00:00 GMT</pubDate>
@@ -161,12 +167,6 @@
 <category>Technology</category>
 </item>
 <item>
-<title>Arch Linux system migration</title>
-<link>https://uwillno.com?blog=1</link>
-<pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
-<category>Technology</category>
-</item>
-<item>
 <title>Uwzz principle completion</title>
 <link>https://uwillno.com?blog=2</link>
 <pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
@@ -175,6 +175,12 @@
 <item>
 <title>Qt creator Chinese input problem on Linux</title>
 <link>https://uwillno.com?blog=3</link>
+<pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
+<category>Technology</category>
+</item>
+<item>
+<title>Arch Linux system migration</title>
+<link>https://uwillno.com?blog=1</link>
 <pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
 <category>Technology</category>
 </item>
