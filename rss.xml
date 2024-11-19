@@ -5,6 +5,12 @@
 <link>https://uwillno.com</link>
 <description>UWillno's blog</description>
 <item>
+<title>变更日志</title>
+<link>https://uwillno.com?blog=changelog</link>
+<pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
+<category>日志</category>
+</item>
+<item>
 <title>安卓锁机软件破解</title>
 <link>https://uwillno.com?blog=30</link>
 <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
@@ -17,22 +23,16 @@
 <category>技术</category>
 </item>
 <item>
-<title>变更日志</title>
-<link>https://uwillno.com?blog=changelog</link>
-<pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
-<category>日志</category>
+<title>Qt/C++与Java交互、JNI使用</title>
+<link>https://uwillno.com?blog=28</link>
+<pubDate>Sat, 26 Oct 2024 00:00:00 GMT</pubDate>
+<category>技术</category>
 </item>
 <item>
 <title>AR眼镜雷鸟Air2折腾记录</title>
 <link>https://uwillno.com?blog=27</link>
 <pubDate>Sat, 26 Oct 2024 00:00:00 GMT</pubDate>
 <category>拔草</category>
-</item>
-<item>
-<title>Qt/C++与Java交互、JNI使用</title>
-<link>https://uwillno.com?blog=28</link>
-<pubDate>Sat, 26 Oct 2024 00:00:00 GMT</pubDate>
-<category>技术</category>
 </item>
 <item>
 <title>博客问题记录（WASM平台）</title>
