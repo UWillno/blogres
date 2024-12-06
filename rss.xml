@@ -7,8 +7,14 @@
 <item>
 <title>变更日志</title>
 <link>https://uwillno.com?blog=changelog</link>
-<pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
+<pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
 <category>日志</category>
+</item>
+<item>
+<title>计划报废产品记录</title>
+<link>https://uwillno.com?blog=31</link>
+<pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+<category>吐槽</category>
 </item>
 <item>
 <title>安卓锁机软件破解</title>
@@ -179,6 +185,12 @@
 <category>技术</category>
 </item>
 <item>
+<title>Arch Linux系统迁移</title>
+<link>https://uwillno.com?blog=1</link>
+<pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
+<category>技术</category>
+</item>
+<item>
 <title>Uwzz原理补全</title>
 <link>https://uwillno.com?blog=2</link>
 <pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
@@ -187,12 +199,6 @@
 <item>
 <title>Linux下Qt creator中文输入问题</title>
 <link>https://uwillno.com?blog=3</link>
-<pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
-<category>技术</category>
-</item>
-<item>
-<title>Arch Linux系统迁移</title>
-<link>https://uwillno.com?blog=1</link>
 <pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
 <category>技术</category>
 </item>
