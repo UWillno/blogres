@@ -257,6 +257,10 @@
 <link>https://uwillno.com?func=qr</link>
 </item>
 <item>
+<title>WebSocket</title>
+<link>https://uwillno.com?func=ws</link>
+</item>
+<item>
 <title>Program</title>
 <link>https://uwillno.com?about=program</link>
 </item>
