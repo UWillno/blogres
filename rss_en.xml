@@ -5,6 +5,12 @@
 <link>https://uwillno.com</link>
 <description>UWillno's blog</description>
 <item>
+<title>Qt for Android Storage Permission Application</title>
+<link>https://uwillno.com?blog=35</link>
+<pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+<category>Technology</category>
+</item>
+<item>
 <title>Some issues with Android/QT/QML WebView</title>
 <link>https://uwillno.com?blog=34</link>
 <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
@@ -197,12 +203,6 @@
 <category>Technology</category>
 </item>
 <item>
-<title>Arch Linux system migration</title>
-<link>https://uwillno.com?blog=1</link>
-<pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
-<category>Technology</category>
-</item>
-<item>
 <title>Uwzz principle completion</title>
 <link>https://uwillno.com?blog=2</link>
 <pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
@@ -211,6 +211,12 @@
 <item>
 <title>Qt creator Chinese input problem under Linux</title>
 <link>https://uwillno.com?blog=3</link>
+<pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
+<category>Technology</category>
+</item>
+<item>
+<title>Arch Linux system migration</title>
+<link>https://uwillno.com?blog=1</link>
 <pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
 <category>Technology</category>
 </item>

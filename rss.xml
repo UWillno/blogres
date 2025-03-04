@@ -5,6 +5,12 @@
 <link>https://uwillno.com</link>
 <description>UWillno's blog</description>
 <item>
+<title>Qt for Android 存储权限申请</title>
+<link>https://uwillno.com?blog=35</link>
+<pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+<category>技术</category>
+</item>
+<item>
 <title>Android/QT/QML WebView折腾</title>
 <link>https://uwillno.com?blog=34</link>
 <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
@@ -197,12 +203,6 @@
 <category>技术</category>
 </item>
 <item>
-<title>Arch Linux系统迁移</title>
-<link>https://uwillno.com?blog=1</link>
-<pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
-<category>技术</category>
-</item>
-<item>
 <title>Uwzz原理补全</title>
 <link>https://uwillno.com?blog=2</link>
 <pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
@@ -211,6 +211,12 @@
 <item>
 <title>Linux下Qt creator中文输入问题</title>
 <link>https://uwillno.com?blog=3</link>
+<pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
+<category>技术</category>
+</item>
+<item>
+<title>Arch Linux系统迁移</title>
+<link>https://uwillno.com?blog=1</link>
 <pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
 <category>技术</category>
 </item>
