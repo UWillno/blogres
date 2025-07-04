@@ -331,6 +331,14 @@
 <link>https://uwillno.com?func=watermark</link>
 </item>
 <item>
+<title>周期排班推理</title>
+<link>https://uwillno.com?func=pba</link>
+</item>
+<item>
+<title>个人排班查询</title>
+<link>https://uwillno.com?func=pb</link>
+</item>
+<item>
 <title>Program</title>
 <link>https://uwillno.com?about=program</link>
 </item>
@@ -339,7 +347,7 @@
 <link>https://uwillno.com?about=website</link>
 </item>
 <item>
-<title>Website</title>
+<title>Myself</title>
 <link>https://uwillno.com?about=me</link>
 </item>
 <item>
