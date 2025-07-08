@@ -5,6 +5,12 @@
 <link>https://uwillno.com</link>
 <description>UWillno's blog</description>
 <item>
+<title>Solution to WIN TO GO exception caused by mistake by turning on the Huorong USB control</title>
+<link>https://uwillno.com?blog=43</link>
+<pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
+<category>Technology</category>
+</item>
+<item>
 <title>Moto G75 experience record</title>
 <link>https://uwillno.com?blog=42</link>
 <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
@@ -35,14 +41,14 @@
 <category>Technology</category>
 </item>
 <item>
-<title>Record processing std::unique_ptr&lt;QWebSocket&gt;</title>
-<link>https://uwillno.com?blog=36</link>
+<title>Record&lt;&gt; causes markdown and xml to exceptions</title>
+<link>https://uwillno.com?blog=37</link>
 <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
 <category>Technology</category>
 </item>
 <item>
-<title>Record&lt;&gt; causes markdown and xml to exceptions</title>
-<link>https://uwillno.com?blog=37</link>
+<title>Record processing std::unique_ptr&lt;QWebSocket&gt;</title>
+<link>https://uwillno.com?blog=36</link>
 <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
 <category>Technology</category>
 </item>
@@ -89,16 +95,16 @@
 <category>Technology</category>
 </item>
 <item>
-<title>AR glasses Thunderbird Air2 toss record</title>
-<link>https://uwillno.com?blog=27</link>
-<pubDate>Sat, 26 Oct 2024 00:00:00 GMT</pubDate>
-<category>Moved on</category>
-</item>
-<item>
 <title>Qt/C++ interacts with Java and uses JNI</title>
 <link>https://uwillno.com?blog=28</link>
 <pubDate>Sat, 26 Oct 2024 00:00:00 GMT</pubDate>
 <category>Technology</category>
+</item>
+<item>
+<title>AR glasses Thunderbird Air2 toss record</title>
+<link>https://uwillno.com?blog=27</link>
+<pubDate>Sat, 26 Oct 2024 00:00:00 GMT</pubDate>
+<category>Moved on</category>
 </item>
 <item>
 <title>Blog issue record (WASM platform)</title>
